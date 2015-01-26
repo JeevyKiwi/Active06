@@ -1,10 +1,10 @@
 {
-    "name": "Active6",
+    "name": "Active06",
     "version": "1.0.0",
     "manifest_version": 1,
     "project_type": "application",
     "executable_type": "scratch",
-    "executable": "Active6.xml",
+    "executable": "Active06.xml",
     "author": "mykepredko",
     "minimum_firmware_version": 42
 }
