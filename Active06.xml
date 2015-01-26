@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="comment_comment" id="2" x="15" y="0">
-    <field name="TEXT">Active6 - Follow Object</field>
+    <field name="TEXT">Active06 - Follow Object</field>
     <next>
       <block type="controls_whileUntil" id="9" inline="false">
         <field name="MODE">UNTIL</field>
